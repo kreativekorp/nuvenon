@@ -1,16 +1,16 @@
 # Nuvenon
 
-Tehano Veno, also known as Tehano Nuvenon, Ayeri Vine Script, or Ayeri Ornament Script, was invented in April 2004 by Carsten Becker. It was originally intended to be used as a script for artistic purposes in his invented language, Ayeri, but was later discarded for that purpose. More information can be found on its [Omniglot page](https://omniglot.com/conscripts/ayeri.htm).
+Tahano Veno, also known as Tahano Nuvenon, Ayeri Vine Script, or Ayeri Ornament Script, was invented in April 2004 by Carsten Becker. It was originally intended to be used as a script for artistic purposes in his invented language, Ayeri, but was later discarded for that purpose. More information can be found on its [Omniglot page](https://omniglot.com/conscripts/ayeri.htm).
 
 ![](https://omniglot.com/images/langsamples/smp_ayeri.gif)
 
-Nuvenon is a font for Tehano Veno created in February 2010 by Rebecca Bettencourt. The original version only supported an ASCII mapping.
+Nuvenon is a font for Tahano Veno created in February 2010 by Rebecca Bettencourt. The original version only supported an ASCII mapping.
 
 In July 2022, Nuvenon was updated with a Private Use Area mapping and property data, optimized, and relicensed under the OFL.
 
 ## ASCII Mapping
 
-Lowercase letters produce Tehano Veno characters in the normal orientation, while uppercase letters produce vertically mirrored versions. The ng/ŋ letter can be typed with Q/q (and/or Ŋ/ŋ in the new version). Long vowels are mapped to vowels with diaeresis (ä ë ï ö ü) and “variable vowels” (part of Ayeri’s verb morphology) are mapped to vowels with grave (à è ì ò ù). C/c produces an empty space while X/x produces an extension to the “vine.”
+Lowercase letters produce Tahano Veno characters in the normal orientation, while uppercase letters produce vertically mirrored versions. The ng/ŋ letter can be typed with Q/q (and/or Ŋ/ŋ in the new version). Long vowels are mapped to vowels with diaeresis (ä ë ï ö ü) and “variable vowels” (part of Ayeri’s verb morphology) are mapped to vowels with grave (à è ì ò ù). C/c produces an empty space while X/x produces an extension to the “vine.”
 
 | Char | Normal   | Mirrored | Char | Normal   | Mirrored |
 | ---- | -------- | -------- | ---- | -------- | -------- |
